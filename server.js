@@ -8,7 +8,7 @@ if(PORT === undefined) {
     app.use(express.static('public'));
 
     app.listen(3000, function() {
-        console.log('Express server on port ' + PORT);
+        console.log('Express server on port 3000');
     });
 }
 else {
