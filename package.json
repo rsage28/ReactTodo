@@ -4,7 +4,8 @@
   "description": "react test",
   "main": "index.js",
   "scripts": {
-    "test": "karma start"
+    "test": "karma start",
+    "start": "node server.js"
   },
   "author": "Richard",
   "license": "MIT",
